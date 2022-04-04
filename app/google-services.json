@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "510029398634",
+    "project_id": "eliterosters-80077",
+    "storage_bucket": "eliterosters-80077.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510029398634:android:4640ed5eaecc87b093c013",
+        "android_client_info": {
+          "package_name": "com.example.eliterosters"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510029398634-67cu0ii1qulvpurtfl0bllo86ta9j8d3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkAasHQBMzURrY1aPyBCt9bseMdJ9Qnp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510029398634-67cu0ii1qulvpurtfl0bllo86ta9j8d3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
